@@ -60,7 +60,7 @@ body{
 
 .navbar{
     background-color:#bc3908;
-    border-bottom: 1vw solid #220901;
+    border-bottom: 1vw solid #591f0a;
 }
 
 .nav-brand{
@@ -95,7 +95,7 @@ body{
     margin-top:5vw;
     min-height:65vh;
     border:3vw solid white;
-    background-image: radial-gradient( #f2c14e,#bc3908) !important; 
+    background-image: radial-gradient( #fff200,#bc3908) !important; 
 }
 
 .ip{
@@ -119,7 +119,7 @@ body{
 h1{
     font-family: 'Inika';
     text-align:center;
-    color:#081c15;
+    color:#00043a;
 }
 
 h2{
